@@ -2,9 +2,9 @@
   "name": "txbulk",
   "version": "1.0.0",
   "description": "Bulk ERC-20 token transfer script",
-  "main": "p.js",
+  "main": "run.js",
   "scripts": {
-    "start": "node p.js"
+    "start": "node run.js"
   },
   "dependencies": {
     "chalk": "^4.1.2",
